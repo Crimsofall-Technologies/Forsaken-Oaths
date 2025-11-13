@@ -64,7 +64,4 @@ Assets/**/*.mp4
 Assets/**/*.ogg
 Assets/**/*.anim
 Assets/**/*.controller
-Assets/**/*.mat
-Assets/**/*.shader
-Assets/**/*.shadergraph
 Assets/**/*.exr
